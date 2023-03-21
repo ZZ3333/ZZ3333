@@ -153,7 +153,8 @@ UBS & VC-backed blockchain platform for the peer-to-peer exchange of tokenized c
 - Developed product for top banks & central banks' consortium at the C-level
 - Coordinated $63.2m Series A investment round from 16 member banks
 - Onboarded 3 new member banks, bringing the total number of institutional participants to 23
-- Gained member banks' strong support for economic and financial incentives distribution among platform participants •CollaboratedonMVPlaunchofP,PvP&DvPpaymentproductswith12blockchainengineers
+- Gained member banks' strong support for economic and financial incentives distribution among platform participants
+- CollaboratedonMVPlaunch of P, PvP & DvP payment products with 12 blockchain engineers
 - Aligned product roadmap with members' objectives via product-specific documentation & collaboration with engineers
 - Identified cost-saving opportunity of up to 16x in legacy payment networks through strategic analysis
 
