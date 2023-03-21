@@ -86,7 +86,7 @@ ________________________________________________________________________________
 ### 🔹 **Threecolts** (Mar 2021 - June 2022)  
  _E-commerce Strategy, Operations Senior Account Manager_
 
- Promoted to Head of Amazon Startups in 6 months for exceptional performance
+ Promoted to Head of Amazon Startups in **6 months** for exceptional performance
 
 <h4 align="center">
 <a href="https://drive.google.com/drive/folders/18V8tDO3IDPfjE_Vxux_uuCdf43Aa63He">🥇 Client Testimonials</a> | <a href="https://docs.google.com/document/d/1yhdk1ylpxsp2auKe0noVMSQBwHK7lmkTQwwfCjqai70/edit">📁 Helpful Amazon glossary</a> 
@@ -120,27 +120,27 @@ Managed 30+ SC & VC FBA Amazon businesses: start-ups, scaleups, & enterprises, w
 
 <br>
 
-- Drove >$2m/monthly sales with 57% YoY growth for the portfolio, managing a >$3m annual advertising budget
+- Drove > $2m / monthly sales with 57% YoY growth for the portfolio, managing a > $3m annual advertising budget
 - Analyzed demand and strategized for 60+ products in multiple categories
-- Achieved record expansion revenue in billed hours, doubling Nulastin, FGS, and Jill's weekly hours, while securing a $160k/month Amazon business following e70 performance
+- Achieved record expansion revenue in billed hours, doubling Nulastin, FGS, and Jill's weekly hours, while securing a $160k / month Amazon business following E70 performance
 - Led end-to-end launch, strategy, and execution of 12 Amazon startups, yielding $30k in just 2 months
-- Partnered with developers to fix failing Amazon feature, integrating real-time alerts on Slack, reducing failed ad starts by 100%, and increasing response rate to ad failures by >90%
+- Partnered with developers to fix failing Amazon feature, integrating real-time alerts on Slack, reducing failed ad starts by 100%, and increasing response rate to ad failures by > 90%
 - Optimized Amazon businesses by developing advanced client reporting dashboards, capturing >80% additional sales & enhancing scalability
 
 <br>
 
 ### 🔹 **Dziro** (Apr 2019 - Mar 2020)  
-_Founder (bootstrapped, reached out & pitched to >1000 potential investors_)
+_Founder (bootstrapped, reached out & pitched to > 1000 potential investors_)
 
 Smart camera to manage food waste for B2B and B2C markets. Company's assets can be viewed [here](https://www.dropbox.com/sh/0twy49x64lovg45/AADMUGwlKAP9JJfjKo-KvTHfa?dl=0) & pitch deck [here](https://drive.google.com/file/d/1v7I_9HsO8nvkkQPwzVXa7WVKUZrrakyG/view?usp=sharing)
 
 - Formed an 8-person team and achieved the following milestones:
 
-  - Launched MVP in <1 month, exceeding the target by 2 months
-  - Achieved >97% precision and recognition rate for >400 food types with the smart camera
+  - Launched MVP in < 1 month, exceeding the target by 2 months
+  - Achieved > 97% precision and recognition rate for > 400 food types with the smart camera
   - Named the most anticipated start-up in the Spring 2019 cohort at the ABC Accelerator, Slovenia
   - Founders Factory established a new sector in their accelerator program after my pitch, please see confirmation [here](https://drive.google.com/file/d/1ZvKODh-zrlwMjNCSttFowTjqGNexcV23/view)
-  - Named a top finalist in the Creatella startup pitch [competition](https://creatella.ventures/competition) from >2000 companies
+  - Named a top finalist in the Creatella startup pitch [competition](https://creatella.ventures/competition) from > 2000 companies
   
  <br>
 
@@ -155,7 +155,7 @@ UBS & VC-backed blockchain platform for the peer-to-peer exchange of tokenized c
 - Onboarded 3 new member banks, bringing the total number of institutional participants to 23
 - Gained member banks' strong support for economic and financial incentives distribution among platform participants •CollaboratedonMVPlaunchofP,PvP&DvPpaymentproductswith12blockchainengineers
 - Aligned product roadmap with members' objectives via product-specific documentation & collaboration with engineers
-- Identified cost-saving opportunity of 0.3x-16x in legacy payment networks through strategic analysis
+- Identified cost-saving opportunity of up to 16x in legacy payment networks through strategic analysis
 
 <br>
 
@@ -164,7 +164,7 @@ _Equity Research Analyst (1+ year contract)_
 
 London-based top quant hedge fund
 
-- Identified >90% of buy opportunity stocks through equity valuation and risk analysis
+- Identified > 90% of buy opportunity stocks through equity valuation and risk analysis
 - Supported traders with successful trading ideas worth over US$5m
 - Analyzed US, Asian & European stocks data and provided BUY, SELL, HOLD trading recommendations
 
@@ -186,7 +186,7 @@ Sino-European M&A boutique for buy & sell-side advisory
 _Investment Analyst (2 months contract)_
 
 - Generated £5m+ trading recommendations for in-house traders
-- Analysed stocks with >$200M in annual sales, used CAPM for equity position entry and exit points
+- Analysed stocks with > $200M in annual sales, used CAPM for equity position entry and exit points
 
 
 
