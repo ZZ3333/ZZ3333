@@ -8,6 +8,8 @@ I am excited to apply my previously acquired knowledge of finance and ecommerce,
 
 Through my previous and recent experience, I have gained a deep understanding of what it takes to build and ship successful products in a timely manner. My results-driven mindset and passion for tech will be a valuable asset to any team.
 
+My **CV** can be viewed [**here**](https://github.com/ZZ3333/Zahar-Zelensky-CV/blob/master/Zahar%20Zelensky%20Resume.pdf)
+
  
 
 <br>
