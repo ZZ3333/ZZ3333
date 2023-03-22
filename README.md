@@ -128,11 +128,11 @@ Managed 30+ SC & VC FBA Amazon businesses: start-ups, scaleups, & enterprises, w
 
 <br>
 
-- Drove > $2m / monthly sales with 57% YoY growth for the portfolio, managing a > $3m annual advertising budget
-- Analyzed demand and strategized for 60+ products in multiple categories
+- Drove **> $2m** / monthly sales with **57% YoY growth** for the portfolio, managing a **> $3m** annual advertising budget
+- Analyzed demand and strategized for **60+ products** in multiple categories
 - Achieved record expansion revenue in billed hours, doubling Nulastin, FGS, and Jill's weekly hours, while securing a $160k / month Amazon business following E70 performance
 - Led end-to-end launch, strategy, and execution of 12 Amazon startups, yielding $30k in just 2 months
-- Partnered with developers to fix failing Amazon feature, integrating real-time alerts on Slack, reducing failed ad starts by 100%, and increasing response rate to ad failures by > 90%
+- Partnered with developers to fix failing Amazon feature, integrating real-time alerts on Slack, reducing failed ad starts by 100%, and increasing response rate to ad failures by **> 90%**
 - Optimized Amazon businesses by developing advanced client reporting dashboards, capturing >80% additional sales & enhancing scalability
 
 <br>
@@ -144,8 +144,8 @@ Smart camera to manage food waste for B2B and B2C markets. Company's assets can 
 
 - Formed an 8-person team and achieved the following milestones:
 
-  - Launched MVP in < 1 month, exceeding the target by 2 months
-  - Achieved > 97% precision and recognition rate for > 400 food types with the smart camera
+  - Launched MVP in **< 1 month**, exceeding the target by 2 months
+  - Achieved **> 97%** precision and recognition rate for **> 400** food types with the smart camera
   - Named the most anticipated start-up in the Spring 2019 cohort at the ABC Accelerator, Slovenia
   - Founders Factory established a new sector in their accelerator program after my pitch, please see confirmation [here](https://drive.google.com/file/d/1ZvKODh-zrlwMjNCSttFowTjqGNexcV23/view)
   - Named a top finalist in the Creatella startup pitch [competition](https://creatella.ventures/competition) from > 2000 companies
@@ -159,7 +159,7 @@ UBS & VC-backed blockchain platform for the peer-to-peer exchange of tokenized c
 
 
 - Developed product for top banks & central banks' consortium at the C-level
-- Coordinated $63.2m Series A investment round from 16 member banks
+- Coordinated **$63.2m** Series A investment round from 16 member banks
 - Onboarded 3 new member banks, bringing the total number of institutional participants to 23
 - Gained member banks' strong support for economic and financial incentives distribution among platform participants
 - CollaboratedonMVPlaunch of P, PvP & DvP payment products with 12 blockchain engineers
@@ -173,8 +173,8 @@ _Equity Research Analyst (1+ year contract)_
 
 London-based top quant hedge fund
 
-- Identified > 90% of buy opportunity stocks through equity valuation and risk analysis
-- Supported traders with successful trading ideas worth over US$5m
+- Identified **> 90%** of buy opportunity stocks through equity valuation and risk analysis
+- Supported traders with successful trading ideas worth over **$5m**
 - Analyzed US, Asian & European stocks data and provided BUY, SELL, HOLD trading recommendations
 
 <br>
@@ -185,17 +185,17 @@ _M&A Analyst Intern_
 Sino-European M&A boutique for buy & sell-side advisory
 
 - Worked on the following UK-based transactions:
-  - **US$1.4bn** AppLovin marketing company
-  - **US$300m** Southampton football club
-  - **US$30m** IpGroup company
+  - **$1.4bn** AppLovin marketing company
+  - **$300m** Southampton football club
+  - **$30m** IpGroup company
 
 <br>
 
 ### 🔹 **UBS** (Nov 2015 - Dec 2015)  
 _Investment Analyst (2 months contract)_
 
-- Generated £5m+ trading recommendations for in-house traders
-- Analysed stocks with > $200M in annual sales, used CAPM for equity position entry and exit points
+- Generated **£5m+** trading recommendations for in-house traders
+- Analysed stocks with **> $200m** in annual sales, used CAPM for equity position entry and exit points
 
 
 <br>
