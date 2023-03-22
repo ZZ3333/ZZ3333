@@ -13,7 +13,7 @@ My **CV** can be viewed [**here**](https://github.com/ZZ3333/Zahar-Zelensky-CV/b
 
 <div align="center">
 
-[**Projects**](#projects) | [**Work Experience**](#experience) | [**Skills**](#skills) | [**Education**](#education) | [**Hobbies**](#hobbies)
+[**Projects**](#projects) | [**Work Experience**](#experience) | [**Education**](#education) | [**Hobbies**](#hobbies)
 
 </div>
 
