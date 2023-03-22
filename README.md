@@ -10,35 +10,16 @@ Through my previous and recent experience, I have gained a deep understanding of
 
 My **CV** can be viewed [**here**](https://github.com/ZZ3333/Zahar-Zelensky-CV/blob/master/Zahar%20Zelensky%20Resume.pdf)
 
- 
-
-<br>
-
-<div align="center">
-
-<div style="display: flex; flex-direction: row; justify-content: center;">
-  <img width="360px" src="https://github-readme-stats.vercel.app/api?username=zz3333&show_icons=true&&theme=dark" alt="GitHub Stats">
-  <img width="380px" src="https://github-readme-streak-stats.herokuapp.com?user=zz3333&theme=dark&mode=weekly" alt="GitHub Streak">
-</div>
-</div>
-
-<br>
-<br>
-
-
 <div align="center">
 <a href="mailto:zahar.zelenskiy@gmail.com"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gmail.svg" /></a>
 <a href="https://www.linkedin.com/in/zahar-zelensky"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" /></a>
 </div>
 
 <br>
+__________________________________________________________________________________________________
 
+<br>
 
-<div align="center">
-
-[**Projects**](#projects) | [**Work Experience**](#experience) | [**Skills**](#skills) | [**Education**](#education) | [**Hobbies**](#hobbies)
-
-</div>
 
 ## Languages and Tools 🧰
 <br>
@@ -68,6 +49,34 @@ My **CV** can be viewed [**here**](https://github.com/ZZ3333/Zahar-Zelensky-CV/b
 </p>
 
 __________________________________________________________________________________________________
+ 
+
+<br>
+
+<div align="center">
+
+<div style="display: flex; flex-direction: row; justify-content: center;">
+  <img width="360px" src="https://github-readme-stats.vercel.app/api?username=zz3333&show_icons=true&&theme=dark" alt="GitHub Stats">
+  <img width="380px" src="https://github-readme-streak-stats.herokuapp.com?user=zz3333&theme=dark&mode=weekly" alt="GitHub Streak">
+</div>
+</div>
+
+<br>
+<br>
+
+
+
+
+<br>
+
+
+<div align="center">
+
+[**Projects**](#projects) | [**Work Experience**](#experience) | [**Skills**](#skills) | [**Education**](#education) | [**Hobbies**](#hobbies)
+
+</div>
+
+
 
 
 ## <a name="projects">Projects ✏️</a>
