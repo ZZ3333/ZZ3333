@@ -128,7 +128,6 @@ Managed 30+ SC & VC FBA Amazon businesses: start-ups, scaleups, & enterprises, w
 - Partnered with developers to fix failing Amazon feature, integrating real-time alerts on Slack, reducing failed ad starts by 100%, and increasing response rate to ad failures by **> 90%**
 - Optimized Amazon businesses by developing advanced client reporting dashboards, capturing >80% additional sales & enhancing scalability
 
-<br>
 
 ### 🔹 **Dziro** (Apr 2019 - Mar 2020)  
 _Founder (bootstrapped, reached out & pitched to > 1000 potential investors_)
@@ -143,7 +142,7 @@ Smart camera to manage food waste for B2B and B2C markets. Company's assets can 
   - Founders Factory established a new sector in their accelerator program after my pitch, please see confirmation [here](https://drive.google.com/file/d/1ZvKODh-zrlwMjNCSttFowTjqGNexcV23/view)
   - Named a top finalist in the Creatella startup pitch [competition](https://creatella.ventures/competition) from > 2000 companies
   
- <br>
+
 
 ### 🔹 **Clearmatics (Fnality International spin off)** (Oct 2018 - Mar 2019)  
 _Product Development Manager_
@@ -160,7 +159,6 @@ UBS & VC-backed blockchain platform for the peer-to-peer exchange of tokenized c
 - Identified cost-saving opportunity of up to 16x in legacy payment networks through strategic analysis
 
 
-
 ### 🔹 **GSA Capital** (Apr 2017 - July 2018)  
 _Equity Research Analyst (1+ year contract)_
 
@@ -169,8 +167,6 @@ London-based top quant hedge fund
 - Identified **> 90%** of buy opportunity stocks through equity valuation and risk analysis
 - Supported traders with successful trading ideas worth over **$5m**
 - Analyzed US, Asian & European stocks data and provided BUY, SELL, HOLD trading recommendations
-
-<br>
 
 ### 🔹 **DealGlobe** (Apr 2016 - Feb 2017)  
 _M&A Analyst Intern_
@@ -182,15 +178,11 @@ Sino-European M&A boutique for buy & sell-side advisory
   - **$300m** Southampton football club
   - **$30m** IpGroup company
 
-<br>
-
 ### 🔹 **UBS** (Nov 2015 - Dec 2015)  
 _Investment Analyst (2 months contract)_
 
 - Generated **£5m+** trading recommendations for in-house traders
 - Analysed stocks with **> $200m** in annual sales, used CAPM for equity position entry and exit points
-
-<br>
 
 ##  <a name="education">Education 💻</a>
 
