@@ -159,7 +159,7 @@ UBS & VC-backed blockchain platform for the peer-to-peer exchange of tokenized c
 - Aligned product roadmap with members' objectives via product-specific documentation & collaboration with engineers
 - Identified cost-saving opportunity of up to 16x in legacy payment networks through strategic analysis
 
-<br>
+
 
 ### 🔹 **GSA Capital** (Apr 2017 - July 2018)  
 _Equity Research Analyst (1+ year contract)_
