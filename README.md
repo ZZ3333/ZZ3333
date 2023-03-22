@@ -67,7 +67,7 @@ ________________________________________________________________________________
 </div>
 
 <br>
-<br>
+
 
 ## <a name="projects">Projects ✏️</a>
 <br>
@@ -80,7 +80,6 @@ ________________________________________________________________________________
 | **MakersBnB** | Holiday Booking Website | Ruby, Sinatra, Rspec| N/A | N/A | 1st Team Engineering Project | 14 days |
 
 
-<br>
 <br>
 
 ## <a name="experience">Work Experience 💼</a>
@@ -191,8 +190,6 @@ _Investment Analyst (2 months contract)_
 - Generated **£5m+** trading recommendations for in-house traders
 - Analysed stocks with **> $200m** in annual sales, used CAPM for equity position entry and exit points
 
-
-<br>
 <br>
 
 ##  <a name="education">Education 💻</a>
