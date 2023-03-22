@@ -1,4 +1,4 @@
-# [**About me**](#aboutme)
+# About Me
 
 Welcome to my GitHub page! My name is Zahar, and I recently completed an intensive and highly selective 12-week Software Engineering bootcamp at [**Makers Academy**](https://makers.tech/about-us/), the leading tech bootcamp that helps people radically change their careers and land tech jobs.
 
