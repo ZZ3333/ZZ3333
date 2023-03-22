@@ -138,7 +138,7 @@ Smart camera to manage food waste for B2B and B2C markets. Company's assets can 
 
 - Formed an 8-person team and achieved the following milestones:
 
-  - Launched MVP in **< 1 month**, exceeding the target by 2 months
+  - Launched MVP in **<br 1 month**, exceeding the target by 2 months
   - Achieved **> 97%** precision and recognition rate for **> 400** food types with the smart camera
   - Named the most anticipated start-up in the Spring 2019 cohort at the ABC Accelerator, Slovenia
   - Founders Factory established a new sector in their accelerator program after my pitch, please see confirmation [here](https://drive.google.com/file/d/1ZvKODh-zrlwMjNCSttFowTjqGNexcV23/view)
@@ -229,3 +229,5 @@ _Covered courses (account [overview](https://www.codecademy.com/profiles/system3
 - **Travelling**: I like both planning my trips in greater detail and love travelling to places spontaneously
 
 
+<br>
+</br>
