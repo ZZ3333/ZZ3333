@@ -1,6 +1,6 @@
 # About Me
 
-Welcome to my GitHub page! My name is Zahar, and I recently completed an intensive and highly selective 12-week Software Engineering bootcamp at @Makers Academy, the leading tech bootcamp that helps people radically change their careers and land tech jobs.
+Welcome to my GitHub page! My name is Zahar, and I recently completed an intensive and highly selective 12-week Software Engineering bootcamp at [Makers Academy](https://makers.tech/about-us/), the leading tech bootcamp that helps people radically change their careers and land tech jobs.
 
 As a Makers Academy graduate, I have gained extensive skills in agile environments, test-driven development, object-oriented programming, front- and backend development, and the ability to quickly learn and adapt to new technologies. My previous work history and individual projects also demonstrate my strong interest and experience in tech.
 
