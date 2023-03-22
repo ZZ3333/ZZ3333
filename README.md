@@ -81,6 +81,14 @@ ________________________________________________________________________________
 | **MakersBnB** | Holiday Booking Website | Ruby, Sinatra, Rspec| N/A | N/A | 1st Team Engineering Project | 14 days |
 
 
+<br>
+
+<h2 align="right">
+  <a href="#about-the-project">back to top ▲</a> 
+</h2>
+
+<br>
+
 ## <a name="experience">Work Experience 💼</a>
 
 ### 🔹 **Threecolts** (Mar 2021 - June 2022)  
@@ -190,6 +198,11 @@ _Investment Analyst (2 months contract)_
 - Analysed stocks with > $200M in annual sales, used CAPM for equity position entry and exit points
 
 
+<br>
+
+<h2 align="right">
+  <a href="#about-the-project">back to top ▲</a> 
+</h2>
 
 <br>
 
@@ -227,3 +240,10 @@ _Covered courses (account [overview](https://www.codecademy.com/profiles/system3
 - **Travelling**: I like both planning my trips in greater detail and love travelling to places spontaneously
 
 
+<br>
+
+<h2 align="right">
+  <a href="#about-the-project">back to top ▲</a> 
+</h2>
+
+<br>
