@@ -11,6 +11,12 @@ Through my previous and recent experience, I have gained a deep understanding of
 My **CV** can be viewed [**here**](https://github.com/ZZ3333/Zahar-Zelensky-CV/blob/master/Zahar%20Zelensky%20Resume.pdf)
 
 
+<div align="center">
+
+[**Projects**](#projects) | [**Work Experience**](#experience) | [**Skills**](#skills) | [**Education**](#education) | [**Hobbies**](#hobbies)
+
+</div>
+
 ## Contact Me
 <div align="left">
 <a href="mailto:zahar.zelenskiy@gmail.com"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gmail.svg" /></a>
@@ -62,21 +68,6 @@ ________________________________________________________________________________
 
 <br>
 <br>
-
-
-
-
-<br>
-
-
-<div align="center">
-
-[**Projects**](#projects) | [**Work Experience**](#experience) | [**Skills**](#skills) | [**Education**](#education) | [**Hobbies**](#hobbies)
-
-</div>
-
-
-
 
 ## <a name="projects">Projects ✏️</a>
 <br>
