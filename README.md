@@ -84,7 +84,7 @@ ________________________________________________________________________________
 <br>
 
 <h2 align="right">
-  <a href="#about-the-project">back to top ▲</a> 
+  <a href="#projects">back to top ▲</a> 
 </h2>
 
 <br>
@@ -201,7 +201,7 @@ _Investment Analyst (2 months contract)_
 <br>
 
 <h2 align="right">
-  <a href="#about-the-project">back to top ▲</a> 
+  <a href="#projects">back to top ▲</a> 
 </h2>
 
 <br>
@@ -243,7 +243,7 @@ _Covered courses (account [overview](https://www.codecademy.com/profiles/system3
 <br>
 
 <h2 align="right">
-  <a href="#about-the-project">back to top ▲</a> 
+  <a href="#projects">back to top ▲</a> 
 </h2>
 
 <br>
