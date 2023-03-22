@@ -1,4 +1,4 @@
-# About Me
+# [**About me**](#about_me)
 
 Welcome to my GitHub page! My name is Zahar, and I recently completed an intensive and highly selective 12-week Software Engineering bootcamp at [**Makers Academy**](https://makers.tech/about-us/), the leading tech bootcamp that helps people radically change their careers and land tech jobs.
 
@@ -84,7 +84,7 @@ ________________________________________________________________________________
 <br>
 
 <h2 align="right">
-  <a href="#projects">back to top ▲</a> 
+  <a href="#about_me">back to top ▲</a> 
 </h2>
 
 <br>
@@ -201,7 +201,7 @@ _Investment Analyst (2 months contract)_
 <br>
 
 <h2 align="right">
-  <a href="#projects">back to top ▲</a> 
+  <a href="#about_me">back to top ▲</a> 
 </h2>
 
 <br>
@@ -243,7 +243,7 @@ _Covered courses (account [overview](https://www.codecademy.com/profiles/system3
 <br>
 
 <h2 align="right">
-  <a href="#projects">back to top ▲</a> 
+  <a href="#about_me">back to top ▲</a> 
 </h2>
 
 <br>
