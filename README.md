@@ -15,10 +15,8 @@ My **CV** can be viewed [**here**](https://github.com/ZZ3333/Zahar-Zelensky-CV/b
 <a href="https://www.linkedin.com/in/zahar-zelensky"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" /></a>
 </div>
 
-<br>
 __________________________________________________________________________________________________
 
-<br>
 
 
 ## Languages and Tools 🧰
