@@ -24,7 +24,7 @@ My **CV** can be viewed [**here**](https://github.com/ZZ3333/Zahar-Zelensky-CV/b
 <br>
 
 
-<p align="left">
+<p align="center">
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/javascript.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/mongodb.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/express.svg" />
@@ -90,11 +90,6 @@ ________________________________________________________________________________
 
 
 <br>
-
-<h2 align="right">
-  <a href="#aboutme">back to top ▲</a> 
-</h2>
-
 <br>
 
 ## <a name="experience">Work Experience 💼</a>
@@ -207,11 +202,6 @@ _Investment Analyst (2 months contract)_
 
 
 <br>
-
-<h2 align="right">
-  <a href="#about_me">back to top ▲</a> 
-</h2>
-
 <br>
 
 ##  <a name="education">Education 💻</a>
@@ -248,10 +238,3 @@ _Covered courses (account [overview](https://www.codecademy.com/profiles/system3
 - **Travelling**: I like both planning my trips in greater detail and love travelling to places spontaneously
 
 
-<br>
-
-<h2 align="right">
-  <a href="#about_me">back to top ▲</a> 
-</h2>
-
-<br>
