@@ -202,7 +202,10 @@ _Covered courses (account [overview](https://www.codecademy.com/profiles/system3
 
 - Ruby
 - JavaScript
+- Node.js
 - React
+- HTML
+- CSS
 
 
 ### **Kings College London** (Sept 2014 - Sept 2015)
