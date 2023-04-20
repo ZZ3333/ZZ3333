@@ -137,9 +137,8 @@ _Co-Founder (bootstrapped, reached out & pitched to > 1000 potential investors_)
 
 Smart camera to manage food waste for B2B and B2C markets. Company's assets can be viewed [here](https://www.dropbox.com/sh/0twy49x64lovg45/AADMUGwlKAP9JJfjKo-KvTHfa?dl=0) & pitch deck [here](https://drive.google.com/file/d/1v7I_9HsO8nvkkQPwzVXa7WVKUZrrakyG/view?usp=sharing)
 
-- •Formed an 8-person team & worked alongside CTO to achieve the following milestones:
-
-  - Launched MVP in < 1 month, exceeding the target by 2 months. The MVP was developed in C, C++, Lisp, Haskell, Prolog, & R
+- Formed an 8-person team & worked alongside CTO to achieve the following milestones:
+  - Launched MVP in < 1 month, exceeding the target by 2 months. It was developed in C, C++, Lisp, Haskell, Prolog, & R
   - Achieved > 97% precision & recognition rate for > 400 food types by simulating different product recognition models, & available databases
   - Founders Factory established a new sector in their accelerator program after my pitch, please see confirmation [here](https://drive.google.com/file/d/1ZvKODh-zrlwMjNCSttFowTjqGNexcV23/view)
   - Top finalist in the Creatella startup pitch [competition](https://creatella.ventures/competition) from 2k startups & the most anticipated startup in the Spring 19 cohort at ABC Accelerator
