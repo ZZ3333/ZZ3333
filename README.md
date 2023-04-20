@@ -38,6 +38,7 @@ My **CV** can be viewed [**here**](https://github.com/ZZ3333/Zahar-Zelensky-CV/b
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/express.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/react.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/nodedotjs.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/typescript.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/jest.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/cypress.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/postgresql.svg" />
@@ -132,17 +133,16 @@ Managed 30+ SC & VC FBA Amazon businesses: start-ups, scaleups, & enterprises, w
 
 
 ### 🔹 **Dziro** (Apr 2019 - Mar 2020)  
-_Founder (bootstrapped, reached out & pitched to > 1000 potential investors_)
+_Co-Founder (bootstrapped, reached out & pitched to > 1000 potential investors_)
 
 Smart camera to manage food waste for B2B and B2C markets. Company's assets can be viewed [here](https://www.dropbox.com/sh/0twy49x64lovg45/AADMUGwlKAP9JJfjKo-KvTHfa?dl=0) & pitch deck [here](https://drive.google.com/file/d/1v7I_9HsO8nvkkQPwzVXa7WVKUZrrakyG/view?usp=sharing)
 
-- Formed an 8-person team and achieved the following milestones:
+- •Formed an 8-person team & worked alongside CTO to achieve the following milestones:
 
-  - Launched MVP in **<br 1 month**, exceeding the target by 2 months
-  - Achieved **> 97%** precision and recognition rate for **> 400** food types with the smart camera
-  - Named the most anticipated start-up in the Spring 2019 cohort at the ABC Accelerator, Slovenia
+  - Launched MVP in < 1 month, exceeding the target by 2 months. The MVP was developed in C, C++, Lisp, Haskell, Prolog, & R
+  - Achieved > 97% precision & recognition rate for > 400 food types by simulating different product recognition models, & available databases
   - Founders Factory established a new sector in their accelerator program after my pitch, please see confirmation [here](https://drive.google.com/file/d/1ZvKODh-zrlwMjNCSttFowTjqGNexcV23/view)
-  - Named a top finalist in the Creatella startup pitch [competition](https://creatella.ventures/competition) from > 2000 companies
+  - Top finalist in the Creatella startup pitch [competition](https://creatella.ventures/competition) from 2k startups & the most anticipated startup in the Spring 19 cohort at ABC Accelerator
   
 
 
@@ -152,13 +152,9 @@ _Product Development Manager_
 UBS & VC-backed blockchain platform for the peer-to-peer exchange of tokenized cash value between members
 
 
-- Developed product for top banks & central banks' consortium at the C-level
-- Coordinated **$63.2m** Series A investment round from 16 member banks
-- Onboarded 3 new member banks, bringing the total number of institutional participants to 23
-- Gained member banks' strong support for economic and financial incentives distribution among platform participants
-- CollaboratedonMVPlaunch of P, PvP & DvP payment products with 12 blockchain engineers
-- Aligned product roadmap with members' objectives via product-specific documentation & collaboration with engineers
 - Identified cost-saving opportunity of up to 16x in legacy payment networks through strategic analysis
+- Produced Investment Proposal & coordinated a $63.2m Series A investment round with senior team members & 16 member banks
+- Collaborated on MVP launch of P, PvP & DvP payment products with DLT engineers. Made sure product road maps were aligned with members
 
 
 ### 🔹 **GSA Capital** (Apr 2017 - July 2018)  
@@ -202,6 +198,7 @@ _Covered courses (account [overview](https://www.codecademy.com/profiles/system3
 
 - Ruby
 - JavaScript
+- TypeScript
 - Node.js
 - React
 - HTML
