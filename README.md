@@ -90,7 +90,7 @@ ________________________________________________________________________________
 ### 🔹 **Threecolts** | _E-commerce Strategy, Operations Senior Account Manager_ | Mar 2021 - June 2022
 #### Amazon Ecommerce software suite
 
-<h4 align="center">
+<h4 align="left">
 <a href="https://drive.google.com/drive/folders/18V8tDO3IDPfjE_Vxux_uuCdf43Aa63He">🥇 Client Testimonials</a>
 </h4>
 
