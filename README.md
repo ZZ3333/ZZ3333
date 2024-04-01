@@ -12,8 +12,6 @@ In essence, my arsenal comprises an insatiable thirst for knowledge, adaptabilit
 
 **My top skills:** quick learner, curious, knowledge hungry, adaptable, results driven, & team player.
 
-My **CV** can be viewed [**here**](https://github.com/ZZ3333/Zahar-Zelensky-CV/blob/master/Zahar%20Zelensky%20Resume.pdf)
-
 
 <div align="center">
 
