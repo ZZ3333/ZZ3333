@@ -148,7 +148,7 @@ _Investment Analyst (2 months contract)_
 - Developed RESTful APIʼs, using Node, Express, Sinatra
 
 ### **React by Meta - Basic to Advanced** | Dec 2022 - Feb 2023
-#### Dived deeper into React fundamentals and advanced areas such as props, hooks, components, forms, react router, and context API to build more scalable, maintainable, dynamic and interactive websites and apps
+- Dived deeper into React fundamentals and advanced areas such as props, hooks, components, forms, react router, and context API to build more scalable, maintainable, dynamic and interactive websites and apps
 
 ### **Kings College London** (Sept 2014 - Sept 2015)
 
