@@ -94,11 +94,8 @@ ________________________________________________________________________________
 <a href="https://drive.google.com/drive/folders/18V8tDO3IDPfjE_Vxux_uuCdf43Aa63He">🥇 Client Testimonials</a>
 </h4>
 
-<br>
-
 **Additional Highlights**
 
-<br>
 
 - Optimized portfolio of Amazon businesses by developing advanced client reporting dashboards. Captured > **80%** of additional sales
 - Integrated real-time alerts on Slack & reduced failed ad starts by **100%;** increased response rate by > **90%**
