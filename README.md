@@ -134,7 +134,7 @@ _Investment Analyst (2 months contract)_
 - Generated **£5m+** trading recommendations for in-house traders
 - Analysed stocks with **> $200m** in annual sales, used CAPM for equity position entry and exit points
 
-##  <a name="education">Education 💻</a>
+##  <a name="education">TECHNICAL EXPERIENCE 💻</a>
 
 ### **Makers Academy** | Nov 2022 - March 2023
 #### Full-time, highly selective Full Stack Software Engineer Bootcamp
