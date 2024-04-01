@@ -128,8 +128,7 @@ ________________________________________________________________________________
   - **$300m** Southampton Football Club
   - **$30m** IpGroup
 
-### 🔹 **UBS** (Nov 2015 - Dec 2015)  
-_Investment Analyst (2 months contract)_
+### 🔹 **UBS** | _Investment Analyst (2 months contract)_ | Nov 2015 - Dec 2015
 
 - Generated **£5m+** trading recommendations for in-house traders
 - Analysed stocks with **> $200m** in annual sales, used CAPM for equity position entry and exit points
