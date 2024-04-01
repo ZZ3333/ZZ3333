@@ -120,15 +120,13 @@ ________________________________________________________________________________
 - Identified > **90%** of buy opportunity stocks through equity valuation and risk analysis in Excel
 - Analysed publicly traded stocks, provided BUY / SELL / HOLD trading recommendations. Used equity reports for reference
 
-### 🔹 **DealGlobe** (Apr 2016 - Feb 2017)  
-_M&A Analyst Intern_
-
-Sino-European M&A boutique for buy & sell-side advisory
+### 🔹 **DealGlobe** | _M&A Analyst Intern_ | Apr 2016 - Feb 2017
+#### Sino-European M&A boutique for buy & sell-side advisory
 
 - Worked on the following UK-based transactions:
-  - **$1.4bn** AppLovin marketing company
-  - **$300m** Southampton football club
-  - **$30m** IpGroup company
+  - **$1.4bn** AppLovin
+  - **$300m** Southampton Football Club
+  - **$30m** IpGroup
 
 ### 🔹 **UBS** (Nov 2015 - Dec 2015)  
 _Investment Analyst (2 months contract)_
