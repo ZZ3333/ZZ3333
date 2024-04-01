@@ -90,33 +90,9 @@ ________________________________________________________________________________
 ### 🔹 **Threecolts** (Mar 2021 - June 2022)  
  _E-commerce Strategy, Operations Senior Account Manager_
 
- Promoted to Head of Amazon Startups in **6 months** for exceptional performance
-
 <h4 align="center">
-<a href="https://drive.google.com/drive/folders/18V8tDO3IDPfjE_Vxux_uuCdf43Aa63He">🥇 Client Testimonials</a> | <a href="https://docs.google.com/document/d/1yhdk1ylpxsp2auKe0noVMSQBwHK7lmkTQwwfCjqai70/edit">📁 Helpful Amazon glossary</a> 
+<a href="https://drive.google.com/drive/folders/18V8tDO3IDPfjE_Vxux_uuCdf43Aa63He">🥇 Client Testimonials</a>
 </h4>
-
-
-Managed 30+ SC & VC FBA Amazon businesses: start-ups, scaleups, & enterprises, with notable achievements & KPIs:
-
-
-<div align="center">
-
-| Company Name  | Growth Rate | ROAS | ACOS | TACOS | Comments |
-| :---: | :---: | :---: | :---: | :---:| :---: |
-| [FGS Ingredients UK](https://www.amazon.co.uk/s?k=Old+India)  | 122%  | 6 | 15% | 3% | Best performing MoM business 
-| [Nulastin US](https://www.amazon.com/stores/page/8A58C49C-E922-4193-86CF-5025A73952FB)  | 543%  | 5 | 15% | 10% | Scaled to $1m in 6 months
-| [Vital Baby UK](https://www.amazon.co.uk/stores/node/16246572031?ie=UTF8&field-lbr_brands_browse-bin=Vital+Baby)  | 400%  | 9 | 5% | 2% | Scaled priority high value items
-| [E70 US](https://www.amazon.com/stores/e70IntensiveHealing/page/A30756CB-91E6-44FC-95CD-74DCDE9F970E?ref_=ast_bln)  | 263%  | 4 | 15% | 8% | Launched succesfully in a crowded market
-| [Jill Razor US](https://www.amazon.com/stores/Jill/page/01AE771D-A8E3-4D75-B213-D7DF0199CE5D?ref_=ast_bln)  | 200%  | 5 | 15% | 13% | Sales hit all-time high in 3rd month after launch
-| [LedKoning FR](https://www.amazon.fr/stores/LEDChampion/page/3A083DBD-2DCB-4513-AF50-85A184E5D54B?ref_=ast_bln)  | 400%  | 4 | 17% | 17% | Successfully launched in French marketplace
-| [Kokoso UK](https://www.amazon.co.uk/stores/Kokoso/page/76FCCF77-DCCC-42E2-9D8E-73DF6869CEEC?ref_=ast_bln)  | 100%  | 4 | 15% | 13% | Defended market share in a crowded market 
-| [Fold Hill UK](https://www.amazon.co.uk/stores/Foldhill/Homepage/page/384C6D05-2556-4BB2-87D9-5A3BAF4C2E4A)  | 125%  | 7 | 13% | 10% | Successfully launched new products with record sales
-| [Tum Tum UK](https://www.amazon.co.uk/stores/TUMTUM/page/241100A0-3468-412F-8287-8654927F3316?ref_=ast_bln)  | 187%  | 4 | 15% | 13% | Sucessfully launched new product lines in record time
-| [Wilton London](https://www.amazon.co.uk/stores/Wilton+London/page/12FAB470-6132-482A-97B8-715E245BFE33?ref_=ast_bln)  | 52%  | 4 | 15% | 4% | Optimized business operations & removed inefficiencies for improved performance
-| [Ahmad Tea UK](https://www.amazon.co.uk/stores/AhmadTea/page/C3B66E49-A043-4907-8D80-2BC3CEB5F971?ref_=ast_bln)  | 51%  | 4 | 20% | 18% | Implemented multiple product strategies & improved operations in a crowded market
-
-</div>
 
 <br>
 
@@ -124,13 +100,10 @@ Managed 30+ SC & VC FBA Amazon businesses: start-ups, scaleups, & enterprises, w
 
 <br>
 
-- Drove **> $2m** / monthly sales with **57% YoY growth** for the portfolio, managing a **> $3m** annual advertising budget
-- Analyzed demand and strategized for **60+ products** in multiple categories
-- Achieved record expansion revenue in billed hours, doubling Nulastin, FGS, and Jill's weekly hours, while securing a $160k / month Amazon business following E70 performance
-- Led end-to-end launch, strategy, and execution of 12 Amazon startups, yielding $30k in just 2 months
-- Partnered with developers to fix failing Amazon feature, integrating real-time alerts on Slack, reducing failed ad starts by 100%, and increasing response rate to ad failures by **> 90%**
-- Optimized Amazon businesses by developing advanced client reporting dashboards, capturing >80% additional sales & enhancing scalability
-
+- Optimized portfolio of Amazon businesses by developing advanced client reporting dashboards. Captured > **80%** of additional sales
+- Integrated real-time alerts on Slack & reduced failed ad starts by **100%;** increased response rate by > **90%**
+- Analysed demand and strategised > **60** products in multiple categories. Leveraged data to simulate levels of interest in products and built three scenarios for each case
+  
 
 ### 🔹 **Dziro** (Apr 2019 - Mar 2020)  
 _Co-Founder (bootstrapped, reached out & pitched to > 1000 potential investors_)
