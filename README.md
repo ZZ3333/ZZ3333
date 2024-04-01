@@ -158,10 +158,9 @@ ________________________________________________________________________________
 
 ## <a name="hobbies">Hobbies 🎯</a>
 
-- **Sports**: I am very competitive. I have played many sports in the past but mostly practised judo. 3 times British Judo Council National Champion & won multiple first places in other local tournaments in the UK
-- **Tech**: I am interested in tech and regularly read start up news from one of my favourite sites: TechCrunch
-- **Reading**: favorite genres: self development, investment, history, novel, and psychology. The last book I read: **The Bitcoin Standart**
-- **Travelling**: I like both planning my trips in greater detail and love travelling to places spontaneously
+- **Sports**: Have been doing judo for 13 years. 3 times British Judo Council National Champion. Recipient of other awards in other local tournaments in the UK
+- **Coffee** Love visiting coffee shops in London and elsewhere where I happen to be
+- **Traveling** The goal is to visit 100 best beaches from Lonely Planet guide book
 
 
 <br>
