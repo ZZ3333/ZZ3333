@@ -136,14 +136,16 @@ _Investment Analyst (2 months contract)_
 
 ##  <a name="education">Education 💻</a>
 
-### **Makers Academy** (Nov 2022 - March 2023)
-_**Full-time**, highly selective 12 weeks Full Stack Software Engineer Bootcamp_
+### **Makers Academy** | Nov 2022 - March 2023
+#### Full-time**, highly selective Full Stack Software Engineer Bootcamp
 
-- Web development projects: In a team of 4-6 people created 3 dynamic web applications; Facebook & Airbnb clones(14 days each), & the [final project](https://github.com/HusnainRashid/london-on-a-budget) (8 days) was built using the MERN stack ([deck](https://drive.google.com/file/d/1DFztOEyiPIIdvBFvAfxd34-OMuDZSgQW/view?usp=sharing))
-  
-- Key fundamental skills practiced & covered during individual & group projects under tight deadlines: TDD, Pair Programming, Agile, OOP, Debugging, Refactoring, Project & Time Management, Diagramming, Building MVP, Front & Backend Development
-  
-- Key skills practiced & covered: **_JavaScript_** (React, Node.js, Express, MongoDB, jQuery, Jest), **_Ruby_** (Sinatra, RSpec, Cypress), **_SQL_** (PostgreSQL, TablePlus), HTML, CSS (Bootstrap), Test Coverage (Codecov), **_Diagramming_** (Figma, Excalidraw, Mermaid), **_Agile_** (Monday, Trello)
+- Acquired language-agnostic programming skills, emphasising OOP, SOLID principles
+- Collaborated in developing multiple event-driven, asynchronous web apps using JavaScript and Ruby
+- Structured data architecture with SQL (PostgreSQL), NoSQL (MongoDB), and MVC/MVVM patterns
+- Employed TDD and BDD methodologies at unit, integration, and e2e levels with Jest, Cypress, and RSpec
+- Managed version control using Git and GitHub, incorporating effective branch strategies
+- Participated in building three full-stack, responsive web apps with React in team projects
+- Participated in building three full-stack, responsive web apps with React in team projects
 
 ### **Codecademy** (Sept 2022 - March 2023)
 _Covered courses (account [overview](https://www.codecademy.com/profiles/system3946687449)_)
