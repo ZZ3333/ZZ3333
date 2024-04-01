@@ -104,7 +104,7 @@ ________________________________________________________________________________
 
 - Launched MVP in **1 month.** Used Agile methodologies like sprints & user stories for product iterations & launch
 - Configured the camera to have > **97%** precision & recognition rate for > **400** food types. Used open source food database libraries to simulate product recognition patterns and expiry date behaviours
-- •Conducted requirements analysis using user stories, prototypes, & Figma for client-side design of the App
+- Conducted requirements analysis using user stories, prototypes, & Figma for client-side design of the App
   
 ### 🔹 **Clearmatics (Fnality International spin off)** (Oct 2018 - Mar 2019)  
 _Product Development Manager_
