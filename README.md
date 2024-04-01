@@ -150,11 +150,11 @@ _Investment Analyst (2 months contract)_
 ### **React by Meta - Basic to Advanced** | Dec 2022 - Feb 2023
 - Dived deeper into React fundamentals and advanced areas such as props, hooks, components, forms, react router, and context API to build more scalable, maintainable, dynamic and interactive websites and apps
 
-### **Kings College London** (Sept 2014 - Sept 2015)
+## <a name="experience">EDUCATION 📚</a>
 
-- MSc Economics of Oil & Gas
-- Grade: Merit
-- Received a 50% tuition fee scholarship from Kingʼs College (1 of 55 out of 10,385 Masters students)
+### **Kings College London** | _MSc Economics of Oil & Gas_ | Grade: Merit | Scholarship Recipient | Sept 2014 - Sept 2015
+
+- Simulated data and built models in Excel to forecast oil and gas demand in Europe from major exporters
 
 
 ## <a name="hobbies">Hobbies 🎯</a>
