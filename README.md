@@ -95,7 +95,6 @@ ________________________________________________________________________________
 
 **Additional Highlights**
 
-
 - Optimized portfolio of Amazon businesses by developing advanced client reporting dashboards. Captured > **80%** of additional sales
 - Integrated real-time alerts on Slack & reduced failed ad starts by **100%;** increased response rate by > **90%**
 - Analysed demand and strategised > **60** products in multiple categories. Leveraged data to simulate levels of interest in products and built three scenarios for each case
