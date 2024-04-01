@@ -137,7 +137,7 @@ _Investment Analyst (2 months contract)_
 ##  <a name="education">Education 💻</a>
 
 ### **Makers Academy** | Nov 2022 - March 2023
-#### Full-time**, highly selective Full Stack Software Engineer Bootcamp
+#### Full-time, highly selective Full Stack Software Engineer Bootcamp
 
 - Acquired language-agnostic programming skills, emphasising OOP, SOLID principles
 - Collaborated in developing multiple event-driven, asynchronous web apps using JavaScript and Ruby
@@ -145,7 +145,7 @@ _Investment Analyst (2 months contract)_
 - Employed TDD and BDD methodologies at unit, integration, and e2e levels with Jest, Cypress, and RSpec
 - Managed version control using Git and GitHub, incorporating effective branch strategies
 - Participated in building three full-stack, responsive web apps with React in team projects
-- Participated in building three full-stack, responsive web apps with React in team projects
+- Developed RESTful APIʼs, using Node, Express, Sinatra
 
 ### **Codecademy** (Sept 2022 - March 2023)
 _Covered courses (account [overview](https://www.codecademy.com/profiles/system3946687449)_)
