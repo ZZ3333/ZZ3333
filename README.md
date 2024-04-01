@@ -114,14 +114,11 @@ ________________________________________________________________________________
 - Logged product progress in technical & system design documentation. Kept an up-to-date version control
 
 
-### 🔹 **GSA Capital** (Apr 2017 - July 2018)  
-_Equity Research Analyst (1+ year contract)_
+### 🔹 **GSA Capital** | _Equity Research Analyst (1+ year contract)_ | Apr 2017 - July 2018
+#### London-based top quant hedge fund
 
-London-based top quant hedge fund
-
-- Identified **> 90%** of buy opportunity stocks through equity valuation and risk analysis
-- Supported traders with successful trading ideas worth over **$5m**
-- Analyzed US, Asian & European stocks data and provided BUY, SELL, HOLD trading recommendations
+- Identified > **90%** of buy opportunity stocks through equity valuation and risk analysis in Excel
+- Analysed publicly traded stocks, provided BUY / SELL / HOLD trading recommendations. Used equity reports for reference
 
 ### 🔹 **DealGlobe** (Apr 2016 - Feb 2017)  
 _M&A Analyst Intern_
