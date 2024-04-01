@@ -156,7 +156,7 @@ ________________________________________________________________________________
 - Simulated data and built models in Excel to forecast oil and gas demand in Europe from major exporters
 
 
-## <a name="hobbies">Hobbies 🎯</a>
+## <a name="HOBBIES">Hobbies 🎯</a>
 
 - **Sports**: Have been doing judo for 13 years. 3 times British Judo Council National Champion. Recipient of other awards in other local tournaments in the UK
 - **Coffee** Love visiting coffee shops in London and elsewhere where I happen to be
