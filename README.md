@@ -85,7 +85,7 @@ ________________________________________________________________________________
 
 <br>
 
-## <a name="experience">Work Experience 💼</a>
+## <a name="experience">PROFESSIONAL EXPERIENCE 💼</a>
 
 ### 🔹 **Threecolts** (Mar 2021 - June 2022)  
  _E-commerce Strategy, Operations Senior Account Manager_
