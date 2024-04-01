@@ -28,7 +28,7 @@ My **CV** can be viewed [**here**](https://github.com/ZZ3333/Zahar-Zelensky-CV/b
 <br>
 
 
-## Languages and Tools 🧰
+## LANGUAGES AND TOOLS 🧰
 <br>
 
 
