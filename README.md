@@ -88,31 +88,24 @@ ________________________________________________________________________________
 ## <a name="experience">PROFESSIONAL EXPERIENCE 💼</a>
 
 ### 🔹 **Threecolts** | _E-commerce Strategy, Operations Senior Account Manager_ | Mar 2021 - June 2022
+#### Amazon Ecommerce software suite
 
 <h4 align="center">
 <a href="https://drive.google.com/drive/folders/18V8tDO3IDPfjE_Vxux_uuCdf43Aa63He">🥇 Client Testimonials</a>
 </h4>
-
-**Additional Highlights**
 
 - Optimized portfolio of Amazon businesses by developing advanced client reporting dashboards. Captured > **80%** of additional sales
 - Integrated real-time alerts on Slack & reduced failed ad starts by **100%;** increased response rate by > **90%**
 - Analysed demand and strategised > **60** products in multiple categories. Leveraged data to simulate levels of interest in products and built three scenarios for each case
   
 
-### 🔹 **Dziro** (Apr 2019 - Mar 2020)  
-_Co-Founder (bootstrapped, reached out & pitched to > 1000 potential investors_)
+### 🔹 **Dziro**  | _Co-Founder_ | Apr 2019 - Mar 2020
+#### Smart fridge camera for food waste management
 
-Smart camera to manage food waste for B2B and B2C markets. Company's assets can be viewed [here](https://www.dropbox.com/sh/0twy49x64lovg45/AADMUGwlKAP9JJfjKo-KvTHfa?dl=0) & pitch deck [here](https://drive.google.com/file/d/1v7I_9HsO8nvkkQPwzVXa7WVKUZrrakyG/view?usp=sharing)
-
-- Formed an 8-person team & worked alongside CTO to achieve the following milestones:
-  - Launched MVP in < 1 month, exceeding the target by 2 months. It was developed in C, C++, Lisp, Haskell, Prolog, & R
-  - Achieved > 97% precision & recognition rate for > 400 food types by simulating different product recognition models, & available databases
-  - Founders Factory established a new sector in their accelerator program after my pitch, please see confirmation [here](https://drive.google.com/file/d/1ZvKODh-zrlwMjNCSttFowTjqGNexcV23/view)
-  - Top finalist in the Creatella startup pitch [competition](https://creatella.ventures/competition) from 2k startups & the most anticipated startup in the Spring 19 cohort at ABC Accelerator
+- Launched MVP in **1 month.** Used Agile methodologies like sprints & user stories for product iterations & launch
+- Configured the camera to have > **97%** precision & recognition rate for > **400** food types. Used open source food database libraries to simulate product recognition patterns and expiry date behaviours
+- •Conducted requirements analysis using user stories, prototypes, & Figma for client-side design of the App
   
-
-
 ### 🔹 **Clearmatics (Fnality International spin off)** (Oct 2018 - Mar 2019)  
 _Product Development Manager_
 
