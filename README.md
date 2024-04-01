@@ -72,7 +72,23 @@ ________________________________________________________________________________
 <br>
 
 
-## <a name="projects">Projects ✏️</a>
+##  <a name="education">TECHNICAL EXPERIENCE 💻</a>
+
+### **Makers Academy** | Nov 2022 - March 2023
+#### Full-time, highly selective Full Stack Software Engineer Bootcamp
+
+- Acquired language-agnostic programming skills, emphasising OOP, SOLID principles
+- Collaborated in developing multiple event-driven, asynchronous web apps using JavaScript and Ruby
+- Structured data architecture with SQL (PostgreSQL), NoSQL (MongoDB), and MVC/MVVM patterns
+- Employed TDD and BDD methodologies at unit, integration, and e2e levels with Jest, Cypress, and RSpec
+- Managed version control using Git and GitHub, incorporating effective branch strategies
+- Participated in building three full-stack, responsive web apps with React in team projects
+- Developed RESTful APIʼs, using Node, Express, Sinatra
+
+### **React by Meta - Basic to Advanced** | Dec 2022 - Feb 2023
+- Dived deeper into React fundamentals and advanced areas such as props, hooks, components, forms, react router, and context API to build more scalable, maintainable, dynamic and interactive websites and apps
+
+## <a name="projects">PROJECTS ✏️</a>
 <br>
 
 
@@ -132,22 +148,6 @@ ________________________________________________________________________________
 
 - Generated **£5m+** trading recommendations for in-house traders
 - Analysed stocks with **> $200m** in annual sales, used CAPM for equity position entry and exit points
-
-##  <a name="education">TECHNICAL EXPERIENCE 💻</a>
-
-### **Makers Academy** | Nov 2022 - March 2023
-#### Full-time, highly selective Full Stack Software Engineer Bootcamp
-
-- Acquired language-agnostic programming skills, emphasising OOP, SOLID principles
-- Collaborated in developing multiple event-driven, asynchronous web apps using JavaScript and Ruby
-- Structured data architecture with SQL (PostgreSQL), NoSQL (MongoDB), and MVC/MVVM patterns
-- Employed TDD and BDD methodologies at unit, integration, and e2e levels with Jest, Cypress, and RSpec
-- Managed version control using Git and GitHub, incorporating effective branch strategies
-- Participated in building three full-stack, responsive web apps with React in team projects
-- Developed RESTful APIʼs, using Node, Express, Sinatra
-
-### **React by Meta - Basic to Advanced** | Dec 2022 - Feb 2023
-- Dived deeper into React fundamentals and advanced areas such as props, hooks, components, forms, react router, and context API to build more scalable, maintainable, dynamic and interactive websites and apps
 
 ## <a name="experience">EDUCATION 📚</a>
 
