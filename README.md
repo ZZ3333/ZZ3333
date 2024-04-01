@@ -106,15 +106,12 @@ ________________________________________________________________________________
 - Configured the camera to have > **97%** precision & recognition rate for > **400** food types. Used open source food database libraries to simulate product recognition patterns and expiry date behaviours
 - Conducted requirements analysis using user stories, prototypes, & Figma for client-side design of the App
   
-### 🔹 **Clearmatics (Fnality International spin off)** (Oct 2018 - Mar 2019)  
-_Product Development Manager_
+### 🔹 **Clearmatics (Fnality International)** | _Product Development Manager_ | Oct 2018 - Mar 2019
+#### UBS & VC-backed blockchain platform for the peer-to-peer exchange of tokenized cash value between members
 
-UBS & VC-backed blockchain platform for the peer-to-peer exchange of tokenized cash value between members
-
-
-- Identified cost-saving opportunity of up to 16x in legacy payment networks through strategic analysis
-- Produced Investment Proposal & coordinated a $63.2m Series A investment round with senior team members & 16 member banks
-- Collaborated on MVP launch of P, PvP & DvP payment products with DLT engineers. Made sure product road maps were aligned with members
+- Identified cost-saving opportunity of up to 16x in legacy payment networks. Analysed & simulated data in Excel
+- Launched P, PvP and DvP MVP payment products on blockchain. Adhered to product roadmap deliverables
+- Logged product progress in technical & system design documentation. Kept an up-to-date version control
 
 
 ### 🔹 **GSA Capital** (Apr 2017 - July 2018)  
