@@ -1,6 +1,6 @@
 # ABOUT ME
 
-Hi and welcome to my GitHub domain! I'm Zahar, a recent alumnus of the prestigious Makers Academy, where I completed a rigorous 12-week Software Engineering bootcamp. Makers Academy stands at the forefront of tech education, empowering individuals to pivot their careers and secure coveted positions in the tech sphere.
+Hi and welcome to my GitHub domain! I'm Zahar, a recent 2x alumnus of the prestigious Makers Academy, where I completed a rigorous 12-week Software Engineering bootcamp. Makers Academy stands at the forefront of tech education, empowering individuals to pivot their careers and secure coveted positions in the tech sphere.
 
 As a Makers Academy graduate, I've honed a diverse array of skills within agile frameworks, test-driven development, object-oriented programming, and both front- and backend development. My aptitude for swiftly mastering new technologies is complemented by a rich background in finance and ecommerce, alongside hands-on experience with enterprises ranging from startups to industry giants.
 
@@ -33,6 +33,8 @@ In essence, my arsenal comprises an insatiable thirst for knowledge, adaptabilit
 
 
 <p align="center">
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/springboot.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/javascript.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/mongodb.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/express.svg" />
@@ -45,12 +47,9 @@ In essence, my arsenal comprises an insatiable thirst for knowledge, adaptabilit
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/postman.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/ruby.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/rubysinatra.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/html5.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/css3.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/figma.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/trello.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/jira.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/bootstrap.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/canva.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/codecov.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/miro.svg" />
@@ -74,8 +73,17 @@ ________________________________________________________________________________
 
 ##  <a name="education">TECHNICAL EXPERIENCE 💻</a>
 
+### **Makers Academy** | Sept 2024 - Nov 2024
+#### Full-time Java Software Engineer Bootcamp
+
+- Gained hands-on experience in building database-driven web applications with Spring Boot and Flyway
+- Implemented Spring Security to enhance application safety and user data protection
+- Leveraged TDD for consistent, maintainable, and testable code
+- Contributed to team projects to improve existing codebases and develop production-ready applications
+
+
 ### **Makers Academy** | Nov 2022 - March 2023
-#### Full-time, highly selective Full Stack Software Engineer Bootcamp
+#### Full-time Full Stack Software Engineer Bootcamp
 
 - Acquired language-agnostic programming skills, emphasising OOP, SOLID principles
 - Collaborated in developing multiple event-driven, asynchronous web apps using JavaScript and Ruby
@@ -94,6 +102,7 @@ ________________________________________________________________________________
 
 | Name | Description | Tech/tools | Deck | Demo | Type | Duration |
 | :---:| :---: | :---: | :---:| :---:| :---:| :---: |
+| [**Trivia Game App**](https://github.com/olnov/trivia) | Trivia quiz game | Java, SB, REST API, JS, React, ChakraUI | N/A | N/A | Final Team Project | 10 days |
 | [**Dealscover London**](https://github.com/HusnainRashid/london-on-a-budget)| Find Affordable Events in London | MongoDB, React, Node.js, Express, Jest, JavaScript, Bootstrap | [Pitch deck](https://drive.google.com/file/d/1DFztOEyiPIIdvBFvAfxd34-OMuDZSgQW/view?usp=sharing) | [02:45 - 12:00](https://www.youtube.com/watch?v=Ay6Iw0_IVnM) | Final Team Project | 8 days
 | [**Acebook**](https://github.com/ZZ3333/acebook-acebookers) | Social Media Website | MongoDB, React, Node.js, Express, Cypress, Jest, JavaScript, Bootstrap| N/A| N/A | 2nd Team Engineering Project | 14 days |
 | **MakersBnB** | Holiday Booking Website | Ruby, Sinatra, Rspec| N/A | N/A | 1st Team Engineering Project | 14 days |
