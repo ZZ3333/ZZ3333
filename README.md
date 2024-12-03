@@ -20,7 +20,8 @@ In essence, my arsenal comprises an insatiable thirst for knowledge, adaptabilit
 </div>
 
 ## CONTACT ME
-<div align="left">
+<div align="center">
+<br>
 <a href="mailto:zahar.zelenskiy@gmail.com"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gmail.svg" /></a>
 <a href="https://www.linkedin.com/in/zahar-zelensky"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" /></a>
 </div>
